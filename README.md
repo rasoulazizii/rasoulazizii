@@ -1,16 +1,28 @@
-## Hi there 👋
+## 🧑‍💻 About Me
 
-<!--
-**rasoulazizii/rasoulazizii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Back-end developer (Django / DRF) focusing on clean architecture, secure REST APIs, and scalable backend systems.
+Interested in distributed systems, databases, and real-world software engineering.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** `Python`
+- **Frameworks:** `Django`, `Django REST Framework`
+- **Tools:** `PostgreSQL`, `Redis`, `Docker`, `Git`, `Linux`
+- **Other:** CI/CD (GitHub Actions), API Design, Authentication Systems
+
+## 📌 Featured Projects
+
+- **E-Commerce Core API** – Modular, scalable shop backend with custom auth, product system, cart, and payment flow.
+- **To-Do REST API** – Full CRUD API with JWT auth and rate limiting.
+- **AirDefender 3D** – Python 3D simulation (algorithm-heavy).
+
+## 📈 What I’m Working On
+
+- Improving test coverage with `Pytest`
+- Deploying DRF apps on **Docker** + **Railway**
+- Building production-ready API templates
+
+## 📬 Contact
+
+- [Email](rasoulazizi@outlook.com)
+- [GitHub](https://github.com/rasoolazizii)
