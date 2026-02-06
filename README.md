@@ -15,6 +15,8 @@ Interested in distributed systems, databases, and real-world software engineerin
 - **E-Commerce Core API** – Modular, scalable shop backend with custom auth, product system, cart, and payment flow.
 - **To-Do REST API** – Full CRUD API with JWT auth and rate limiting.
 - **AirDefender 3D** – Python 3D simulation (algorithm-heavy).
+- **FundStarter API** – Crowdfunding backend featuring automated financial aggregation via signals, custom auth, and robust business logic validations.
+
 
 ## 📈 What I’m Working On
 
